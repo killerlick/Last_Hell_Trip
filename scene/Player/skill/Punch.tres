@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="Skill" load_steps=3 format=3 uid="uid://bwaupa113vh16"]
+
+[ext_resource type="Script" path="res://skill/Skill.gd" id="1_2jhi8"]
+[ext_resource type="Script" path="res://skill/Effect.gd" id="1_dvy5x"]
+
+[resource]
+script = ExtResource("1_2jhi8")
+energy = 0
+damage = 20
+corruption = 0
+target_type = "enemy"
+skill_type = 0
+skill_nature = 0
+inflict_buff = false
+buff_inflicted = Array[ExtResource("1_dvy5x")]([])
+inflict_debuff = false
+debuff_inflicted = Array[ExtResource("1_dvy5x")]([])
+inflict_affliction = false
+affliction_inflicted = Array[ExtResource("1_dvy5x")]([])

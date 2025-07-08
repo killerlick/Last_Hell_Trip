@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://dx2b3s5eu2ohe"]
+
+[ext_resource type="Script" path="res://scene/level_manager.gd" id="1_stoxn"]
+
+[node name="Level_tester" type="Node2D"]
+script = ExtResource("1_stoxn")
+
+[node name="playerPosition" type="Node2D" parent="."]
+position = Vector2(188, 389)

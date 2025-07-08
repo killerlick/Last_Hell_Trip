@@ -1,0 +1,9 @@
+[gd_scene load_steps=4 format=3 uid="uid://c3uhxfy3vbbug"]
+
+[ext_resource type="Script" path="res://scene/Player/Player.gd" id="1_o01bl"]
+[ext_resource type="Script" path="res://skill/Skill.gd" id="2_hfrhb"]
+[ext_resource type="Resource" uid="uid://bwaupa113vh16" path="res://scene/Player/skill/Punch.tres" id="3_nanmx"]
+
+[node name="Player" type="Node2D"]
+script = ExtResource("1_o01bl")
+skillList = Array[ExtResource("2_hfrhb")]([ExtResource("3_nanmx")])
