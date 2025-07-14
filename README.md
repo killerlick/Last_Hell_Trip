@@ -1,5 +1,5 @@
 # Last_Hell_Trip
-mon propre projet de jeu
+un projet de jeu vidéo développé en solo.
 
 # 1. Objectif du jeu
 
@@ -12,11 +12,11 @@ vous incarner un soldat sur entrainer qui par en mission suscide pour sauvez le 
 
 + RPG ,ROGUELIKE
 
-+ souris uniquement
++ Contrôle à la souris uniquement
 
-+ usage de d'attaque et de differents skill
++ Attaques et compétences variées
 
-+ affliction ,buff , debuff
++ Système de buffs, debuffs et afflictions
 
 + bar de vie , d'energie , de munition et de corruption a gerer
 
@@ -27,11 +27,11 @@ vous incarner un soldat sur entrainer qui par en mission suscide pour sauvez le 
 
 + forger de nouvelles arme
 
-+ arbre de competences a ameliorer au fils des partie
++ Arbre de compétences évolutif au fil des parties
 
-+ jauge de corruption selon les contrats et les skills que tu utilises
++ jauge de corruption impactée par les contrats et compétences utilisées
 
-+ systeme de chaine permettant d'enchainer des actions selon certain skills utilisé
++ systeme de chaine permettant l'enchaînement de mouvements selon certaines compétences
 
 # Outils utilisés
 
