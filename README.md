@@ -29,6 +29,10 @@ vous incarner un soldat sur entrainer qui par en mission suscide pour sauvez le 
 
 + arbre de competences a ameliorer au fils des partie
 
++ jauge de corruption selon les contrats et les skills que tu utilises
+
++ systeme de chaine permettant d'enchainer des actions selon certain skills utilisé
+
 # Outils utilisés
 
 - IDE : vscode et godot
